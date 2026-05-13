@@ -1,0 +1,7 @@
+fault_code,system,subsystem,fault_meaning,likely_causes,severity
+P0302,Engine,Ignition / Combustion,Cylinder 2 misfire detected,Spark plug fouling; ignition coil weakness; fuel injector issue; compression issue; wiring concern,High
+P0401,Engine / Emissions,EGR System,Exhaust gas recirculation flow insufficient,EGR valve sticking; soot buildup; EGR cooler restriction; sensor error; actuator mismatch,High
+P0299,Engine / Air Handling,Turbocharging,Turbocharger underboost condition,VGT actuator lag; boost leak; turbo wear; sensor calibration drift; intake restriction,High
+C0035,Brake / Chassis,ABS Wheel Speed Sensing,Left front wheel speed sensor circuit or signal fault,Sensor failure; harness chafing; connector moisture ingress; tone ring damage,Medium
+P20EE,Aftertreatment,SCR / DEF Dosing,SCR NOx catalyst efficiency below threshold,DEF doser crystallization; poor spray pattern; NOx sensor concern; duty cycle impact,High
+P0420,Engine / Emissions,Catalyst System,Catalyst system efficiency below threshold,Catalyst degradation; upstream fuel/air issue; oxygen sensor concern; prior misfire damage,Medium

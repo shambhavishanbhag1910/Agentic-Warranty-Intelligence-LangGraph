@@ -1,0 +1,7 @@
+noun_code,part_name,vehicle_system,subsystem,supplier,design_owner,criticality
+SPKPLG,Spark Plug,Engine,Ignition System,Supplier A,Powertrain Engineering,High
+EGRVLV,EGR Valve,Engine / Emissions,EGR System,Supplier B,Emissions Engineering,High
+TURBO,Turbocharger,Engine / Air Handling,Turbocharging,Supplier C,Air Handling Engineering,High
+WHSNSR,Wheel Speed Sensor,Brake / Chassis,ABS Wheel Speed Sensing,Supplier D,Chassis Controls,Medium
+DOSER,DEF Doser,Aftertreatment,SCR / DEF Dosing,Supplier E,Aftertreatment Engineering,High
+CATCNV,Catalytic Converter,Engine / Emissions,Catalyst System,Supplier F,Emissions Engineering,Medium

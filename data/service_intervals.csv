@@ -1,0 +1,7 @@
+vehicle_make,vehicle_model,model_year,noun_code,part_name,oem_service_interval_miles,inspection_cost_usd,recommended_action
+Mitsubishi,Outlander,2021,SPKPLG,Spark Plug,60000,120,Inspect spark plugs
+International,LT,2022,EGRVLV,EGR Valve,90000,280,Inspect / clean EGR valve and cooler
+International,RH,2023,TURBO,Turbocharger,100000,350,Inspect VGT actuator calibration and boost response
+International,CE School Bus,2024,WHSNSR,Wheel Speed Sensor,50000,90,Inspect harness routing and connector sealing
+International,HV,2022,DOSER,DEF Doser,75000,180,Inspect / clean DEF doser spray pattern
+Mitsubishi,Outlander,2022,CATCNV,Catalytic Converter,100000,160,Check upstream misfire/fuel trims before catalyst replacement
